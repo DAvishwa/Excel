@@ -1,0 +1,14 @@
+Row Labels,Sum of unit_price,,Row Labels,Sum of quantity,,Row Labels,Sum of revenue,,,
+Beauty,59709.45,,Beauty,814,,Card,628105.56,,,
+Clothing,123577.73,,Clothing,1622,,COD,443800.52,,,
+Electronics,138243.69,,Electronics,1750,,Wallet,273676.08,,TOTAL REVENUE,"? 13,45,582.16"
+Home,78832.75,,Home,1074,,Grand Total,1345582.16,,TOTAL QUANITITY,5260.0
+Grand Total,400363.62,,Grand Total,5260,,,,,,
+,,,,,,,,,,
+,,,,,,Row Labels,Sum of discount,,,
+Row Labels,Sum of customer_rating,,Row Labels,Sum of revenue,,Beauty,34.6,,,
+Beauty,562.7,,West,1345582.16,,Clothing,75.53,,,
+Clothing,1192.6,,Grand Total,1345582.16,,Electronics,77.12,,,
+Electronics,1312.2,,,,,Home,46.37,,,
+Home,749.9,,,,,Grand Total,233.62,,,
+Grand Total,3817.4,,,,,,,,,
